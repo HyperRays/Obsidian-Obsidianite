@@ -292,7 +292,6 @@ a.tag[href*='#想法'] {
 
 .is-focused .mod-active .workspace-tab-header.is-active .workspace-tab-header-inner-icon,
 .is-focused .mod-active .workspace-tab-header.is-active .workspace-tab-header-inner-title {
-  background: var(--background-modifier-border);
   color: var(--text-accent);
 }
 
